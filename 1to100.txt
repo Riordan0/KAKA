@@ -1,0 +1,212 @@
+cd C:\Users\Administrator\Desktop\Profiles
+
+start Chrome-001 
+timeout /t 1
+pause
+start Chrome-002 
+timeout /t 1
+start Chrome-003 
+timeout /t 1
+start Chrome-004 
+timeout /t 1
+start Chrome-005 
+timeout /t 1
+start Chrome-006 
+timeout /t 1
+start Chrome-007 
+timeout /t 1
+start Chrome-008 
+timeout /t 1
+start Chrome-009 
+timeout /t 1
+start Chrome-010 
+timeout /t 1
+
+start Chrome-011 
+timeout /t 1
+start Chrome-012 
+timeout /t 1
+start Chrome-013 
+timeout /t 1
+start Chrome-014 
+timeout /t 1
+start Chrome-015 
+timeout /t 1
+start Chrome-016 
+timeout /t 1
+start Chrome-017 
+timeout /t 1
+start Chrome-018 
+timeout /t 1
+start Chrome-019 
+timeout /t 1
+start Chrome-020 
+timeout /t 1
+
+start Chrome-021 
+timeout /t 1
+start Chrome-022 
+timeout /t 1
+start Chrome-023 
+timeout /t 1
+start Chrome-024 
+timeout /t 1
+start Chrome-025 
+timeout /t 1
+start Chrome-026 
+timeout /t 1
+start Chrome-027 
+timeout /t 1
+start Chrome-028 
+timeout /t 1
+start Chrome-029 
+timeout /t 1
+start Chrome-030 
+timeout /t 1
+
+start Chrome-031 
+timeout /t 1
+start Chrome-032 
+timeout /t 1
+start Chrome-033 
+timeout /t 1
+start Chrome-034 
+timeout /t 1
+start Chrome-035 
+timeout /t 1
+start Chrome-036 
+timeout /t 1
+start Chrome-037 
+timeout /t 1
+start Chrome-038 
+timeout /t 1
+start Chrome-039 
+timeout /t 1
+start Chrome-040 
+timeout /t 1
+
+start Chrome-041 
+timeout /t 1
+start Chrome-042 
+timeout /t 1
+start Chrome-043 
+timeout /t 1
+start Chrome-044 
+timeout /t 1
+start Chrome-045 
+timeout /t 1
+start Chrome-046 
+timeout /t 1
+start Chrome-047 
+timeout /t 1
+start Chrome-048 
+timeout /t 1
+start Chrome-049 
+timeout /t 1
+start Chrome-050 
+timeout /t 1
+
+start Chrome-051 
+timeout /t 1
+start Chrome-052 
+timeout /t 1
+start Chrome-053 
+timeout /t 1
+start Chrome-054 
+timeout /t 1
+start Chrome-055 
+timeout /t 1
+start Chrome-056 
+timeout /t 1
+start Chrome-057 
+timeout /t 1
+start Chrome-058 
+timeout /t 1
+start Chrome-059 
+timeout /t 1
+start Chrome-060 
+timeout /t 1
+
+start Chrome-061 
+timeout /t 1
+start Chrome-062 
+timeout /t 1
+start Chrome-063 
+timeout /t 1
+start Chrome-064 
+timeout /t 1
+start Chrome-065 
+timeout /t 1
+start Chrome-066 
+timeout /t 1
+start Chrome-067 
+timeout /t 1
+start Chrome-068 
+timeout /t 1
+start Chrome-069 
+timeout /t 1
+start Chrome-070 
+timeout /t 1
+
+start Chrome-071 
+timeout /t 1
+start Chrome-072 
+timeout /t 1
+start Chrome-073 
+timeout /t 1
+start Chrome-074 
+timeout /t 1
+start Chrome-075 
+timeout /t 1
+start Chrome-076 
+timeout /t 1
+start Chrome-077 
+timeout /t 1
+start Chrome-078 
+timeout /t 1
+start Chrome-079 
+timeout /t 1
+start Chrome-080 
+timeout /t 1
+
+start Chrome-081 
+timeout /t 1
+start Chrome-082 
+timeout /t 1
+start Chrome-083 
+timeout /t 1
+start Chrome-084 
+timeout /t 1
+start Chrome-085 
+timeout /t 1
+start Chrome-086 
+timeout /t 1
+start Chrome-087 
+timeout /t 1
+start Chrome-088 
+timeout /t 1
+start Chrome-089 
+timeout /t 1
+start Chrome-090 
+timeout /t 1
+
+start Chrome-091 
+timeout /t 1
+start Chrome-092 
+timeout /t 1
+start Chrome-093 
+timeout /t 1
+start Chrome-094 
+timeout /t 1
+start Chrome-095 
+timeout /t 1
+start Chrome-096 
+timeout /t 1
+start Chrome-097 
+timeout /t 1
+start Chrome-098 
+timeout /t 1
+start Chrome-099 
+timeout /t 1
+start Chrome-100 
+timeout /t 1
